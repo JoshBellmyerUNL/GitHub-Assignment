@@ -2,7 +2,8 @@
 #include<stdlib.h>
 
 int main (int argc, char **argv) {
-	print("Josh Bellmyer");
+	printf("Josh Bellmyer");
+	printf("Isaac Kramer");
 
 	return 0;
 }
